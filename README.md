@@ -1,3 +1,3 @@
-# Final-Group-Project
-Repo for the final group project of big ideas\
-f
+Team Name: Jupyter
+Team members: Samuel Ruano, 
+Team members' emails: SJR169@pitt.edu, 
