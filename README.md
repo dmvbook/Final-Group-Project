@@ -3,7 +3,7 @@ Team members: Samuel Ruano, Booker Brown, Judah Scott\
 Team members' emails: SJR169@pitt.edu, BBB59@pitt.edu,
 
 # Description and links of data sets:
-Source for all: WRPDC\
+Source for all: WRPDC
 # Historic Landmarks:
 https://data.wprdc.org/dataset/city-designated-individual-historic-sites/resource/31cb3dab-56ab-411a-88cb-59f3688470e2 \
 Link: \
