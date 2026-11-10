@@ -10,11 +10,11 @@ Link: \
 Description: 
 
 # Museums:
-Link:
+Link:  \
 Description: 
 
 # Public Art:
-Link:https://data.wprdc.org/dataset/allegheny-county-assets/resource/5c7825d2-6814-40c7-aefe-3d0f3d6f22e7
+Link: https://data.wprdc.org/dataset/allegheny-county-assets/resource/5c7825d2-6814-40c7-aefe-3d0f3d6f22e7 \
 Description: 
 
 ## Overview:
