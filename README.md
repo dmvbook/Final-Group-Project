@@ -1,3 +1,3 @@
 # Final-Group-Project
-Repo for the final group project of big ideas
-lmk
+Repo for the final group project of big ideas\
+f
