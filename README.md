@@ -1,3 +1,3 @@
-Team Name: Jupyter
-Team members: Samuel Ruano, 
-Team members' emails: SJR169@pitt.edu, 
+Team Name: Jupyter\
+Team members: Samuel Ruano, Booker Brown, Judah Scott\
+Team members' emails: SJR169@pitt.edu, BBB59@pitt.edu, 
