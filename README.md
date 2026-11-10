@@ -6,12 +6,15 @@ Team members' emails: SJR169@pitt.edu, BBB59@pitt.edu,
 Source for all: WRPDC\
 Historic Landmarks:\
 Link: 
+Description:
 
 Museums:\
 Link:
+Description: 
 
 Public Art:\
 Link:https://data.wprdc.org/dataset/allegheny-county-assets/resource/5c7825d2-6814-40c7-aefe-3d0f3d6f22e7
+Description: 
 
 ## Overview:
 
